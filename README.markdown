@@ -1,6 +1,4 @@
-## Credits
-
-### Author
+## Author
 Lokesh Dhakar  
 [lokeshdhakar.com](http://www.lokeshdhakar.com)  
 [twitter.com/lokesh](http://twitter.com/lokesh)
